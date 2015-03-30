@@ -1,5 +1,5 @@
 (function(){
-	function Answer( value ){
+	function Answer( value ) {
 		this._val = value;
 	}
 	Answer.prototype.get = function fn1() {
